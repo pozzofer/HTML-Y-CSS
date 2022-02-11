@@ -1,0 +1,23 @@
+header{
+    background-color: aqua;
+    border: 5px chartreuse;
+    width: 770px;
+    height: 200px;
+    margin: 5px;
+    border-radius: 10px;
+
+}
+main{
+    width: 780px;
+    height: 400px;
+  
+}
+
+nav{
+    background-color: bisque;
+    width: 150px;
+    height: 400px;
+    float: left;
+    margin: 5px;
+    border-radius: 10px;
+}
