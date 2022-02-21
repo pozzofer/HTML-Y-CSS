@@ -1,0 +1,27 @@
+/**{
+   font-size: 50px ; 
+   color: pink;
+}*/
+
+/*
+h1{
+    background-color: indigo;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    text-align: right;
+}
+*/
+
+/*h1,h2,h3,h4,h5,h6{
+    color: red;
+}*/
+
+.parrafo{
+    color: #FFF;
+    font-size: 10px;
+    background-color: #000;
+}
